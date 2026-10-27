@@ -1,0 +1,4 @@
+config.php
+storage/events.json
+storage/events.json.lock
+storage/events.json.tmp

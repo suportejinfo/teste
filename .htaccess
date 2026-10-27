@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "^(config\.php|events\.json|events\.json\.lock|.*\.log)$">
+    Require all denied
+</FilesMatch>
